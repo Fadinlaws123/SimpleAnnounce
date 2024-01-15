@@ -9,7 +9,7 @@
 ## Ace Permissions
 
 - _To give people permissions to use the script, all you have to do is add someone / a group of people to the permission - "simple.announce"! For example:_
-  - **add_ace group.staff simple.announce**
+  - **add_ace group.staff simple.announce allow**
 
 ## How to Install
 
