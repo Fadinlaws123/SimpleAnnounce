@@ -118,7 +118,7 @@ function sendDiscord(name, message)
 	local content = {
         {
         	["color"] =  Config.Announce.EmbedConfig.EmbedColor,
-          ["title"] = "**Server Announcement by: __" .. GetPlayerName(source) .. "**",
+          ["title"] = "**Server Announcement by: __" .. GetPlayerName(source) .. "__**",
           fields = {
             { name = "**→ Announcement:**", value = "*" .. message .. "*"},
             { name = "**→ Command Used:** __/announce__", value = ""},
