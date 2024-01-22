@@ -15,7 +15,7 @@ Config.Announce = {
 
 	EmbedConfig = {
 		EmbedColor = "5263615", -- Color of the embed, can be Hex or decimal code.
-		WebhookPicture = "CHANGE ME" -- Picture that shows for the webhook logs.
+		WebhookPicture = "https://png.pngtree.com/png-vector/20190411/ourmid/pngtree-vector-information-icon-png-image_925431.jpg" -- Picture that shows for the webhook logs.
 		-- More settings coming soon --
 	}
 }
